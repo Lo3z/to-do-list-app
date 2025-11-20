@@ -1,1 +1,1 @@
-Simple to-do-list app project, allows users to add and remove items to a list.
+Simple to-do-list app project, allows users to add and remove items to a list. Created with JS/JQuery
